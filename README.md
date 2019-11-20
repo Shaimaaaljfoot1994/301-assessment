@@ -16,4 +16,4 @@ function myFunction(value, index, array) { console.log("your code goes here");
 }
 
 2
-nothing
+when click on button#primary function work
